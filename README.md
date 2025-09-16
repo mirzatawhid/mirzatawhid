@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tawhid Mirza Mahib</h1>
 <h3 align="center">Studying CSE at Jagannath University, Dhaka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzatawhid" alt="mirzatawhid" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -14,11 +13,8 @@
 <a href="https://instagram.com/mahib__mirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahib__mirza" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzatawhid&show_icons=true&locale=en&layout=compact" alt="mirzatawhid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzatawhid&show_icons=true&locale=en&layout=compact" alt="mirzatawhid" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzatawhid&show_icons=true&locale=en" alt="mirzatawhid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzatawhid&" alt="mirzatawhid" /></p>
 
 ## MY SKILLS & TOOLS
 | Category           | Skills                                          | Icons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
